@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1046121563528",
+    "project_id": "police-akka",
+    "storage_bucket": "police-akka.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1046121563528:android:c9a95aa01b0fc93462663d",
+        "android_client_info": {
+          "package_name": "com.example.police_akka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1GUMvT3hfsbWMLPA30JCmm-UwwFX0I3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
