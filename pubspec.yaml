@@ -17,5 +17,11 @@ dependencies:
   # 📍 Location
   geolocator: ^11.0.0
 
+  # HTTP requests for AI API
+  http: ^1.1.0
+
+  # Environment variables
+  flutter_dotenv: ^5.1.0
+
 flutter:
   uses-material-design: true
